@@ -1,4 +1,10 @@
 body {
   color: rgb(232, 232, 232);
   background-color: rgb(31, 31, 31);
+  padding: 0px;
+  margin: 0px;
+}
+html {
+  padding: 0px;
+  margin: 0px;
 }
